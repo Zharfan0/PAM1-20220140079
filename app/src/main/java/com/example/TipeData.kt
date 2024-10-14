@@ -7,5 +7,7 @@ fun main() {
     println("Byte: $byteValue")
 
     // Short
+    val ShortValue: Short = 20
+    println("Short: $ShortValue")
 
 }
