@@ -30,4 +30,9 @@ fun main() {
     val charValue: Char = 'A'
     println(charValue)
 
+    //Boolean
+    val booleanValue: Boolean = true
+    println("Boolean: $booleanValue")
+
+
 }
